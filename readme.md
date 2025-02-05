@@ -1,10 +1,10 @@
 # Ex1.4
 
-Esta es una practica con una aplicación Java que muestra un mensaje de "Hola mundo".
+Esta es una practica con un metodo en Java que muestra un mensaje de "Hola mundo" y otro metodo que muestra un mensaje con la fecha y hora actual.
 
 ## Contenido del Proyecto
 
-- **Principal.java**: Clase principal que contiene el método `main`.
+- **Principal.java**: Clase principal que contiene el método `main` y los dos metodos; Primero para mostrar mensaje y el otro para mostrar la fecha y hora actual.
 - **.gitignore**: Archivo de configuración para ignorar archivos `.class`.
 - **README.md**: Documentación del proyecto.
 
