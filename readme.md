@@ -1,10 +1,16 @@
 # Ex1.4
 
-Esta es una practica con un metodo en Java que muestra un mensaje de "Hola mundo" y otro metodo que muestra un mensaje con la fecha y hora actual.
+Esta es una practica con la creación de 4 metodos diferentes en Java:
+
+- **ImpHolaMundo**: Muestra un mensaje de "Hola mundo".
+- **fechaHoraActual**: Muestra un mensaje con la fecha y hora actual
+- **crearArrayUsuarios**: Crea un array con una dimension aleatoria (Con random;entre 1 y 10) de usuarios y solicita al usuario que introduzca nombre,apellidos e email.
+- **mostrarUsuarios**: Muestra la información de los usuarios creados.
 
 ## Contenido del Proyecto
 
-- **Principal.java**: Clase principal que contiene el método `main` y los dos metodos; Primero para mostrar mensaje y el otro para mostrar la fecha y hora actual.
+- **Principal.java**: Clase principal que contiene el método `main` y los 4 metodos.
+- **Usuario.java**: Clase con tres atributos públicos `nombre`, `apellidos` e `email`.
 - **.gitignore**: Archivo de configuración para ignorar archivos `.class`.
 - **README.md**: Documentación del proyecto.
 
