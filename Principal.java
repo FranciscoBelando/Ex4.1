@@ -58,6 +58,7 @@ public class Principal {
         return usuario;
     }
 
+    //Metodo para mostrar los usuarios creados
     public static void mostrarUsuarios(Usuario[] usuario,int numUsuarios) {
 
         System.out.println("\nUsuarios registrados: " + numUsuarios + "\n");

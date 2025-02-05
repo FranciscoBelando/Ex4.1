@@ -4,7 +4,7 @@ Esta es una practica con la creación de 4 metodos diferentes en Java:
 
 - **ImpHolaMundo**: Muestra un mensaje de "Hola mundo".
 - **fechaHoraActual**: Muestra un mensaje con la fecha y hora actual
-- **crearArrayUsuarios**: Crea un array con una dimension aleatoria (Con random;entre 1 y 10) de usuarios y solicita al usuario que introduzca nombre,apellidos e email.
+- **crearArrayUsuarios**: Crea un array con una dimension aleatoria `(Con random; Entre 1 y 10)` de usuarios y solicita al usuario que introduzca nombre,apellidos e email.
 - **mostrarUsuarios**: Muestra la información de los usuarios creados.
 
 ## Contenido del Proyecto
